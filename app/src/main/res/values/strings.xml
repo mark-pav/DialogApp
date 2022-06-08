@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DialogApp</string>
+    <string name="success">Success</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
+    <string name="success_title">This is our success title!</string>
+    <string name="warning_title">This is our warning title!</string>
+    <string name="warning_error">This is our error title!</string>
+    <string name="dummy_text">Hello! We should have carefully chosen your choices!</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
